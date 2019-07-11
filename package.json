@@ -2,7 +2,7 @@
   "name": "homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://axelbjornsson.github.io",
+  "homepage": "https://axelbjornsson.github.io/homepage",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "react-scripts": "3.0.1"
