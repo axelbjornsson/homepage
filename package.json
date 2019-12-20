@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://axelbjornsson.github.io/homepage",
   "devDependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "react-scripts": "3.0.1"
   },
   "dependencies": {
